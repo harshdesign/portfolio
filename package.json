@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d harsh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshdesign/portfolio.git"
+  },
+  "author": "harsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshdesign/portfolio/issues"
+  },
+  "homepage": "https://harshdesign.github.io/portfolio/",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
